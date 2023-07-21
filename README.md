@@ -22,7 +22,7 @@ And electronically like this:
 The amplification is (8.2k / 2k) + 1 = 5.1x<br>
 
 ### Balance
-Because of component tolerances, not to forget off-balance hearing and a weird but interesting phenomenon described here and here it is possible one channel appears to be louder than the other. It made me think of the 'spinning dancer' effect where the brain tries to relate the direction to which the dancer turns with the visual clues it gets.
+Because of component tolerances, not to forget off-balance hearing and a weird but interesting phenomenon it is possible one channel appears to be louder than the other. It made me think of the 'spinning dancer' effect where the brain tries to relate the direction to which the dancer turns with the visual clues it gets.
 
 Since the stereo imaging of this headphone amplifier is better than before, I noticed the balance shifted a bit to the left, possibly because I try to relate the visual clues of what I look at with the auditory clues of the sound. Closing my eyes the balance shifted a bit back to the right.
 
