@@ -17,6 +17,7 @@ The circuit is simple and the components are cheap: it consists of one dual opam
 
 Schematically I setup the circuit like this:
 ![blokschema](https://github.com/Wanderingidea/Joechei/assets/42114791/6131befb-ea51-468b-a4ff-65b849673005)
+
 And electronically like this:
 ![Joechei](https://github.com/Wanderingidea/Joechei/assets/42114791/7f8f0d5d-75cb-48ab-bdb0-062d60e3891f)
 The amplification is (8.2k / 2k) + 1 = 5.1x<br>
@@ -47,6 +48,7 @@ The low pass filter to prevent RF from entering the input was also soldered dire
 The opamp is placed in a socket so it can be swapped later on if needed.
 
 Start soldering the socket first, then the resistors, smaller capacitors and at last the bigger electrolytical capacitors. Watch out for the polarity regarding the bigger capacitors.
+
 ![IMG_20180630_104448](https://github.com/Wanderingidea/Joechei/assets/42114791/44117a6f-e87d-4404-907f-4669d9b107f5)
 
  Solder the 100n capacitors as close to the opamp as possible.
