@@ -1,6 +1,6 @@
 # Joechei headphone amplifier
 
-##### Warning: always beware of high sound volume, it can damage your hearing! First close your volume control and slowly increase the volume
+###### Warning: always beware of high sound volume, it can damage your hearing! First close your volume control and slowly increase the volume
 
 ![front with red button](https://github.com/Wanderingidea/Joechei/assets/42114791/7c1fb2a3-ab7c-4008-a062-647593fa0fb9)
 
