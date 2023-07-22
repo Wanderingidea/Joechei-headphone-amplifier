@@ -1,10 +1,9 @@
-# Joechei headphone amplifier
-
+# Joechei headphone amplifier 
+based on the famous Cmoy design
 ###### Warning: always beware of high sound volume, it can damage your hearing! First close your volume control and slowly increase the volume
 
 ![front with red button](https://github.com/Wanderingidea/Joechei/assets/42114791/7c1fb2a3-ab7c-4008-a062-647593fa0fb9)
 
-Joechei Headphone Amplifier based on the famous Cmoy design<br>
 I rarely listen to music over the speakers. Instead for a long time I used a headphone amplifier published by the Elektor magazine of 1987: 'The Headphone Amp'. This headphone amplifier from Elektor is based around an old opamp, the OP-50, long out of production.
 So boredom striked and because of the good reviews of the Cmoy headphone amp I decided it was time to make one and it had to be a desktop version.
 
